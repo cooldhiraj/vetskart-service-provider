@@ -1,3 +1,4 @@
+require('dotenv').config()
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -9,6 +10,7 @@ var serviceProvider = require('./routes/service-provider');
 var bodyparser = require('body-parser')
 
 var app = express();
+require('./config/db')
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
