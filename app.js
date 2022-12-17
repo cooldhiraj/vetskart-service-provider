@@ -10,6 +10,7 @@ var serviceProvider = require('./routes/service-provider');
 var bodyparser = require('body-parser')
 
 var app = express();
+app.use(cors())
 require('./config/db')
 
 // view engine setup
