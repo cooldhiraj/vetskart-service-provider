@@ -308,7 +308,7 @@ table, td { color: #000000; } </style>
       <td style="overflow-wrap:break-word;word-break:break-word;padding:23px;font-family:'Open Sans',sans-serif;" align="left">
         
   <div style="color: #b8b8b8; line-height: 140%; text-align: center; word-wrap: break-word;">
-    <p style="font-size: 14px; line-height: 140%;">WhatsApp: +91 9321038653<br />EMAIL: info@vetskart.com </p>
+    <p style="font-size: 14px; line-height: 140%;">WhatsApp: +91 8928285943<br />EMAIL: info@vetskart.com </p>
   </div>
 
       </td>
